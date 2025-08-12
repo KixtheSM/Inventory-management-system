@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# App runtime outputs
+exports/
+backups/
+settings.json
+*.db
+
+# Logs
+*.log
