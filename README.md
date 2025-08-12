@@ -1,5 +1,7 @@
 # Inventory Management System (Console + SQLite)
 
+# Author : Sujal Mandal
+
 A console-based Inventory Management System to track product stock, sales, purchases, and supplier data.
 
 - Developed in Python
